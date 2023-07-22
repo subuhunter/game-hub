@@ -6,6 +6,7 @@ import GameCardContainer from "./GameCardContainer";
 import { Genre } from "../hooks/useGenres";
 import { GameQuery } from "../App";
 
+// adding a test comment
 interface Props {
   gameQuery: GameQuery
 }
